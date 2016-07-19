@@ -1,0 +1,114 @@
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\App.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\AboutPage.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\Analysis.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\checkstat.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\MainPage.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\QuickFacts.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.xr.xml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.exe
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.pdb
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\resources.pri
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\AppxManifest.xml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.build.appxrecipe
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\App.g.i.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\App.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.g.i.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.g.i.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.g.i.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.g.i.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.xaml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.xaml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.xaml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.xaml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\App.xaml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.xaml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\App.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.xbf
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Crimson.Windows.exe
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Crimson.Windows.pdb
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\priconfig.xml
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\layout.resfiles
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\resources.resfiles
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\pri.resfiles
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\qualifiers.txt
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\courage\documents\visual studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.Windows\bin\Debug\Travel.xbf
+C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.g.i.cs
+C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.g.cs
+C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.xaml
+C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\App.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\AboutPage.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Analysis.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\checkstat.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\MainPage.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\QuickFacts.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Travel.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.xr.xml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.exe
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.pdb
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\resources.pri
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.build.appxrecipe
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\App.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\App.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.g.i.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\App.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.xaml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\App.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\AboutPage.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Analysis.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\checkstat.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\MainPage.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\QuickFacts.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Travel.xbf
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Crimson.Windows.exe
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\Crimson.Windows.pdb
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\priconfig.xml
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\layout.resfiles
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\resources.resfiles
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\pri.resfiles
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\qualifiers.txt
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\ProjectArchitectures.txt

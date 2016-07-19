@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FAITHIEDYKE</Machine>
+    <WindowsUser>FaithieDyke</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f9cc35a1-2444-4403-9967-12c9d5f59e70</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>59CC04F784D2D4D8CB3212FC980D5E3C553B7756BF03C91DDCB213841F6F51E1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f9cc35a1-2444-4403-9967-12c9d5f59e70_1.0.0.0_neutral__2prc89a2agntm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f9cc35a1-2444-4403-9967-12c9d5f59e70_2prc89a2agntm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f9cc35a1-2444-4403-9967-12c9d5f59e70</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=FaithieDyke</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-07T14:04:43.048</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.exe">
+      <PackagePath>Crimson.Windows.exe</PackagePath>
+      <Modified>2016-04-09T16:01:17.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\3d_touch-48.png">
+      <PackagePath>Assets\3d_touch-48.png</PackagePath>
+      <Modified>2016-04-07T13:57:24.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\about-icon.png">
+      <PackagePath>Assets\about-icon.png</PackagePath>
+      <Modified>2016-04-05T19:35:32.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\CheckStatus.png">
+      <PackagePath>Assets\CheckStatus.png</PackagePath>
+      <Modified>2016-04-05T19:35:32.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\contacts.png">
+      <PackagePath>Assets\contacts.png</PackagePath>
+      <Modified>2016-04-07T13:57:24.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\database-48.png">
+      <PackagePath>Assets\database-48.png</PackagePath>
+      <Modified>2016-04-07T13:57:24.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\location.png">
+      <PackagePath>Assets\location.png</PackagePath>
+      <Modified>2016-04-05T19:35:32.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-05T19:35:34.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\Quickfacts.png">
+      <PackagePath>Assets\Quickfacts.png</PackagePath>
+      <Modified>2016-04-05T19:35:34.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-05T19:35:36.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-05T19:35:37.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-05T19:35:37.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-05T19:35:37.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\Assets\IMG_20160129_083742.jpg">
+      <PackagePath>Assets\IMG_20160129_083742.jpg</PackagePath>
+      <Modified>2016-04-05T19:35:32.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Crimson.Windows.xr.xml">
+      <PackagePath>Crimson.Windows.xr.xml</PackagePath>
+      <Modified>2016-04-07T14:04:23.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-04-07T14:04:23.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+      <Modified>2016-04-07T14:04:23.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Analysis.xbf">
+      <PackagePath>Analysis.xbf</PackagePath>
+      <Modified>2016-04-07T14:04:23.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\checkstat.xbf">
+      <PackagePath>checkstat.xbf</PackagePath>
+      <Modified>2016-04-07T14:04:23.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-04-09T16:01:16.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\QuickFacts.xbf">
+      <PackagePath>QuickFacts.xbf</PackagePath>
+      <Modified>2016-04-07T14:04:23.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\Travel.xbf">
+      <PackagePath>Travel.xbf</PackagePath>
+      <Modified>2016-04-07T14:04:23.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Desktop\Imagine Cup\Crimson\Crimson\Crimson.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-07T14:04:42.861</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,51 @@
+﻿<Application
+    x:Class="Crimson.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Crimson">
+
+    <Application.Resources>
+        <SolidColorBrush x:Key="defaulttextcolor" Color="White"/>
+        <SolidColorBrush x:Key="textbodycolor" Color="#FF2C2B2B"/>
+        <SolidColorBrush x:Key="CustomBackground" Color="#FFEBEBEB"/>
+        <SolidColorBrush x:Key="DefaultThemeColor" Color="#FF0047AB"/>
+        <Style TargetType="TextBlock" x:Key="FeatureText">
+            <Setter Property="FontFamily" Value="segoe UI"/>
+            <Setter Property="FontSize" Value="32"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Medium"/>
+            <Setter Property="VerticalAlignment" Value="Bottom"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="LineHeight" Value="40"/>
+            <Setter Property="Width" Value="222"/>
+        </Style>
+        <Style TargetType="TextBlock" x:Key="FeatureTextphone">
+            <Setter Property="FontFamily" Value="segoe UI"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Light"/>
+            <Setter Property="VerticalAlignment" Value="Bottom"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="LineHeight" Value="40"/>
+            <Setter Property="Width" Value="222"/>
+            <Setter Property="Height" Value="50"/>
+            <Setter Property="Foreground" Value="{StaticResource defaulttextcolor}"/>
+        </Style>
+        <x:String x:Key="Appname">Crimson</x:String>
+        <x:String x:Key="AnalysisText">
+            This is the Analysis page of the app. It shows the nearest registered health center for malaria resources.
+        </x:String>
+        <x:String x:Key="AboutText">
+            This is all about Crimson, version developers copyright and blah blah. 
+            This is all about Crimson, version developers copyright and blah blah
+        </x:String>
+        <x:String x:Key="CheckStatText">
+            this uses the camera and whatnot to tell the user if he has malaria and how severe it is.
+        </x:String>
+        <x:String x:Key="QuickFactsText">
+            this has quick facts about Malaria and it shpould update regularly from an RSS feed maybeaa or doa trusted site.
+        </x:String>
+
+    </Application.Resources>
+
+</Application>

@@ -1,0 +1,149 @@
+﻿<Page
+    x:Class="Crimson.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Crimson"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource CustomBackground}">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="390"/>
+            <RowDefinition Height="100*"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="AppHeader" Grid.Row="0" Margin="0,-10,0,0" Height="80" VerticalAlignment="Top" Background="{StaticResource DefaultThemeColor}">
+            <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1" Margin="15">
+                <TextBlock
+            Text="C "
+            Grid.Column="1"
+            Style="{StaticResource HeaderTextBlockStyle}"
+                Foreground="Red"
+            TextWrapping="Wrap"
+                Margin="0,0,10,0"
+            />
+                <TextBlock
+            Text="rimson"
+            Grid.Column="1"
+            Style="{StaticResource HeaderTextBlockStyle}"
+            Foreground="White"
+            TextWrapping="Wrap"
+            />
+            </StackPanel>
+            <Image Source="Assets/contacts.png" 
+                   Grid.Column="2"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Bottom"/>
+            <Button
+               Grid.Column="2"
+                Opacity="0.4"
+                Click="signin_clicked"
+                Width="80"
+                Height="100"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                BorderThickness="0">
+
+            </Button>
+        </Grid>
+        <Grid  Grid.Row="0" x:Name="MapArea" Margin="0,70,0,0">
+            <Rectangle Opacity="0.5">
+                <Rectangle.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="White" Offset="0"/>
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <TextBlock x:Name="Maintext" 
+                   HorizontalAlignment="Left" 
+                   Margin="10,92,0,0" 
+                   TextWrapping="Wrap" 
+                   Text=" Malaria Zones" 
+                   FontSize="44"
+                   FontFamily="Segoe UI"
+                   VerticalAlignment="Bottom" 
+                   />
+            <Button VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Click="Analysisclicked" BorderThickness="0"/>
+        </Grid>
+
+        <Grid x:Name="FeaturesTab" Grid.Row="1" Margin="0,40,0,5" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" MinWidth="12"/>
+                <ColumnDefinition Width="*" MinWidth="12"/>
+                <ColumnDefinition Width="*" MinWidth="12"/>
+                <ColumnDefinition Width="*" MinWidth="12"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="185*"/>
+                <RowDefinition Height="110*"/>
+                <RowDefinition Height="38*"/>
+            </Grid.RowDefinitions>
+            <!---->  
+		<Rectangle Grid.Row="0" 
+				   Grid.Column="1" 
+				   Fill="{StaticResource DefaultThemeColor}"
+				   Margin="10,5,10,5" Grid.RowSpan="2"/>    
+		<Rectangle Grid.Row="0" 
+				   Grid.Column="3"
+				   Fill="{StaticResource DefaultThemeColor}"
+				   Margin="10,5,10,5" Grid.RowSpan="2"/>
+		<Rectangle Grid.Row="0" 
+				   Grid.Column="0"
+				   Fill="{StaticResource DefaultThemeColor}"
+				   Margin="10,5,10,5" Grid.RowSpan="2"/>
+		<Rectangle Grid.Row="0"
+				   Grid.Column="2"
+				   Fill="{StaticResource DefaultThemeColor}"
+				   Margin="10,5,10,5" Grid.RowSpan="2"/>
+		<Image Grid.Row="0" 
+			   Grid.Column="0" 
+			   Source="Assets/CheckStatus.png" 
+			   HorizontalAlignment="Center" 
+			   VerticalAlignment="Center" 
+			   Margin="64,40" Grid.RowSpan="2" 
+			   />
+		<Image Grid.Row="0" 
+			   Grid.Column="1" 
+			   Source="Assets/Quickfacts.png" 
+			   HorizontalAlignment="Center" 
+			   VerticalAlignment="Center" 
+			   Margin="58,40" Grid.RowSpan="2" 
+			   />
+		<Image Grid.Row="0" 
+			   Grid.Column="2" 
+			   Source="Assets/location.png" 
+			   HorizontalAlignment="Center" 
+			   VerticalAlignment="Center" 
+			   Margin="92,41,91,40" Grid.RowSpan="2"
+			   />
+		<Image Grid.Row="0" 
+			   Grid.Column="3" 
+			   Source="Assets/about-icon.png" 
+			   HorizontalAlignment="Center" 
+			   VerticalAlignment="Center" 
+			   Margin="40,52,40,51" Grid.RowSpan="2"
+			   />
+		<Button Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+			Click="statusclick" BorderThickness="0" Margin="10,3,12,3" BorderBrush="Transparent" Foreground="Transparent" Grid.RowSpan="2"/>
+		<Button Grid.Row="0" Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+			Click="quickfactsclicked" BorderThickness="0" Grid.RowSpan="2"/>
+		<Button Grid.Row="0" Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+			Click="Analysisclicked" BorderThickness="0" Grid.RowSpan="2"/>
+		<Button Grid.Row="0" Grid.Column="3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+			Click="aboutclicked" BorderThickness="0" Grid.RowSpan="2"/>
+		<TextBlock Text="Check Status" Style="{StaticResource FeatureText}" Grid.Column="0" Grid.Row="1" Margin="60,0" Grid.RowSpan="2"/>
+		<TextBlock Text="Quick Facts" Style="{StaticResource FeatureText}" Grid.Column="1" Grid.Row="1" Margin="60,0,59,0" Grid.RowSpan="2"/>
+		<TextBlock Text="Analysis" Style="{StaticResource FeatureText}" Grid.Column="2" Grid.Row="1" Margin="60,0" Grid.RowSpan="2"/>
+		<TextBlock Text="About" Style="{StaticResource FeatureText}" Grid.Column="3" Grid.Row="1" Margin="60,0,59,0" Grid.RowSpan="2"/>
+        </Grid>  
+            
+    </Grid> 
+        
+</Page>

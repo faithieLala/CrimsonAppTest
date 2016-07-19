@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FAITHIEDYKE</Machine>
+    <WindowsUser>FaithieDyke</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>475cb9a5-5082-4107-916e-5aa0df8b66d0</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Crimson.WindowsPhone.exe">
+      <PackagePath>Crimson.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\3d_touch-48.png">
+      <PackagePath>Assets\3d_touch-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\aSplashScreen.scale-240.png">
+      <PackagePath>Assets\aSplashScreen.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\CheckStatus.png">
+      <PackagePath>Assets\CheckStatus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\contacts.png">
+      <PackagePath>Assets\contacts.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\database-48.png">
+      <PackagePath>Assets\database-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\location.png">
+      <PackagePath>Assets\location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\not-logged-in.png">
+      <PackagePath>Assets\not-logged-in.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\Quickfacts.png">
+      <PackagePath>Assets\Quickfacts.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\Assets\IMG_20160129_083747.jpg">
+      <PackagePath>Assets\IMG_20160129_083747.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Crimson.WindowsPhone.xr.xml">
+      <PackagePath>Crimson.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\AboutPage.xbf">
+      <PackagePath>AboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Analysis.xbf">
+      <PackagePath>Analysis.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Checkstat.xbf">
+      <PackagePath>Checkstat.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Location.xbf">
+      <PackagePath>Location.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\QuickFacts.xbf">
+      <PackagePath>QuickFacts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Signin_page.xbf">
+      <PackagePath>Signin_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Themes\Generic.xbf">
+      <PackagePath>Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\Travel.xbf">
+      <PackagePath>Travel.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Courage\Documents\Visual Studio 2015\Projects\Crimson\Crimson\Crimson.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,107 @@
+﻿<Page
+    x:Class="Crimson.QuickFacts"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Crimson"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{StaticResource CustomBackground}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <Grid x:Name="AppHeader" Grid.Row="0" Margin="0,-30,0,0"  
+              VerticalAlignment="Top" Background="{StaticResource DefaultThemeColor}">
+            <StackPanel Grid.Row="0" Margin="19,20,0,0">
+                <TextBlock Text="{StaticResource Appname}" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0" Foreground="White"/>
+                <TextBlock Text="Quick Facts" Margin="0,-6.5,0,20" Style="{ThemeResource HeaderTextBlockStyle}" Foreground="White" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+            </StackPanel>
+        </Grid>
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="10,0,10,0">
+            <!--    <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="QuickFactsText0" Grid.Column="1" Grid.Row="0" 
+                       Text="{StaticResource QuickFactsText}" 
+                       FontSize="20"
+                       Foreground="#FF2C2B2B"
+                       Margin="0,5,0,5"
+                       TextWrapping="Wrap"/>
+            <TextBlock x:Name="QuickFactsText1" Grid.Column="1" Grid.Row="1" 
+                       Text="{StaticResource QuickFactsText}" 
+                       FontSize="20" Foreground="#FF2C2B2B"
+                       Margin="0,5,0,5"
+                       TextWrapping="Wrap"/>
+            <TextBlock x:Name="QuickFactsText2" Grid.Column="1" Grid.Row="2" 
+                       Text="{StaticResource QuickFactsText}" 
+                       FontSize="20" Foreground="#FF2C2B2B"
+                       Margin="0,5,0,5"
+                       TextWrapping="Wrap"/>
+            <TextBlock x:Name="QuickFactsText3" Grid.Column="1" Grid.Row="3" 
+                       Text="{StaticResource QuickFactsText}" 
+                       FontSize="20" Foreground="#FF2C2B2B"
+                       Margin="0,5,0,5"
+                       TextWrapping="Wrap"/>
+            <TextBlock x:Name="QuickFactsText4" Grid.Column="1" Grid.Row="4" 
+                       Text="{StaticResource QuickFactsText}" 
+                       FontSize="20"
+                       Margin="0,5,0,5" Foreground="#FF2C2B2B"
+                       TextWrapping="Wrap"/>-->
+            <Image x:Name="QFbackground" Source="Assets/IMG_20160129_083747.jpg" />
+            <Rectangle Fill="Black"
+                       VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                       Margin="-10,0,-10,0"
+                       Opacity="0.7"
+                       />
+            <TextBlock x:Name="QuickFactsText" Grid.Column="1" Grid.Row="0" 
+                       Text="{StaticResource QuickFactsText}" 
+                       FontSize="30"
+                       FontFamily="segoe UI"
+                       VerticalAlignment="Center"
+                       Foreground="White"
+                       Margin="15,-15,15,70"
+                       TextWrapping="Wrap"/>
+            <StackPanel Orientation="Horizontal" Margin="0,0,5,0" Grid.Column="0"
+                        VerticalAlignment="Bottom" HorizontalAlignment="Right">
+                <TextBlock
+            Text="C"
+            Grid.Column="1"
+            Style="{StaticResource HeaderTextBlockStyle}"
+            Foreground="Red"
+            TextWrapping="Wrap"
+            Margin="10,0,4,0" FontSize="30"
+            Height="50"
+            VerticalAlignment="Top"
+            />
+                <TextBlock
+            Text="rimson"
+            Grid.Column="1"
+            Style="{StaticResource HeaderTextBlockStyle}"
+            Foreground="White"
+            TextWrapping="Wrap"
+            FontSize="30" Height="50"
+            VerticalAlignment="Top"
+            />
+            </StackPanel>
+
+
+        </Grid>
+    </Grid>
+</Page>
